@@ -2,5 +2,6 @@
 My custom firmware for my ymdk/wings keyboard
 
 
-![pdf](https://github.com/LetsHaveKiddos/ymdk-wings-config/blob/main/QMK%20Configurator.pdf)
+https://docs.google.com/viewer?url=${https://github.com/LetsHaveKiddos/ymdk-wings-config/blob/main/QMK%20Configurator.pdf}
+
 
